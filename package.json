@@ -4,7 +4,7 @@
   "description": "Koa middleware to get you a Couchbase client.",
   "author": {
     "name": "Richard Bolt",
-    "email: "richard@richardbolt.com>"
+    "email": "richard@richardbolt.com"
   },
   "dependencies": {
     "co-couchbase": "~0.1.0"
