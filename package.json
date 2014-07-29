@@ -1,13 +1,13 @@
 {
   "name": "koa-couchbase",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Koa middleware to get you a Couchbase client.",
   "author": {
     "name": "Richard Bolt",
     "email": "richard@richardbolt.com"
   },
   "dependencies": {
-    "co-couchbase": "~0.1.0"
+    "co-couchbase": "~0.2.0"
   },
   "devDependencies": {
     "koa": "~0.8.2"
