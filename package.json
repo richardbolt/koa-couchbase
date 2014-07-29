@@ -1,0 +1,28 @@
+{
+  "name": "koa-couchbase",
+  "version": "0.0.1",
+  "description": "Koa middleware to get you a Couchbase client.",
+  "main": "index.js",
+  "dependencies": {
+    "co-couchbase": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richardbolt/koa-couchbase.git"
+  },
+  "keywords": [
+    "koa",
+    "middleware",
+    "couchbase",
+    "database"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardbolt/koa-couchbase/issues"
+  },
+  "homepage": "https://github.com/richardbolt/koa-couchbase"
+}
